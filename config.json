@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-python-unittest",
+      "title": "Testing Python Programs with unittest",
+      "description": "Learn automated testing in Python with unittest, including assertions, exceptions, edge cases, and class behavior.",
+      "path": "assignments/testing-python-unittest",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
